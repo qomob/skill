@@ -70,7 +70,7 @@ Qomob 是一家 AI × Marketing × Business 的实践团队，base 上海。
 
 ## 联系我们
 
-有具体的业务难题，欢迎直接聊：[qomob.ai](https://qomob.ai) · [admin@qomob.ai](mailto:admin@qomob.ai)
+有具体的业务难题，欢迎直接聊：[qomob.ai](https://qomob.ai) 
 
 <details>
 <summary>English</summary>
